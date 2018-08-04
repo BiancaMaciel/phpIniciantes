@@ -1,4 +1,4 @@
-# PHP para iniciantes
+# PHP para iniciantes :elephant:
 
 Este repositório contém arquivos de estudo PHP - básico. 
 
